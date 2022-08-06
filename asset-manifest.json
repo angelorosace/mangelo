@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/mangelo/static/css/main.073c9b0a.css",
-    "main.js": "/mangelo/static/js/main.241b6fd1.js",
+    "main.css": "/mangelo/static/css/main.310d658a.css",
+    "main.js": "/mangelo/static/js/main.77e4cd7b.js",
     "static/js/787.754789d5.chunk.js": "/mangelo/static/js/787.754789d5.chunk.js",
+    "static/media/mangelo-logo-dark.png": "/mangelo/static/media/mangelo-logo-dark.e581a28ec12dff9374d4.png",
     "static/media/logo.svg": "/mangelo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mangelo/index.html",
-    "main.073c9b0a.css.map": "/mangelo/static/css/main.073c9b0a.css.map",
-    "main.241b6fd1.js.map": "/mangelo/static/js/main.241b6fd1.js.map",
+    "main.310d658a.css.map": "/mangelo/static/css/main.310d658a.css.map",
+    "main.77e4cd7b.js.map": "/mangelo/static/js/main.77e4cd7b.js.map",
     "787.754789d5.chunk.js.map": "/mangelo/static/js/787.754789d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.241b6fd1.js"
+    "static/css/main.310d658a.css",
+    "static/js/main.77e4cd7b.js"
   ]
 }
