@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mangelo/static/css/main.32954afd.css",
-    "main.js": "/mangelo/static/js/main.7e3e1ebb.js",
+    "main.css": "/mangelo/static/css/main.99e0c0eb.css",
+    "main.js": "/mangelo/static/js/main.83334305.js",
     "static/js/787.754789d5.chunk.js": "/mangelo/static/js/787.754789d5.chunk.js",
     "static/media/bg_tmp.jpg": "/mangelo/static/media/bg_tmp.3f7c813384af05fd0d55.jpg",
     "static/media/PlayfairDisplay-Black.otf": "/mangelo/static/media/PlayfairDisplay-Black.4c596409de06a1f0222f.otf",
@@ -12,12 +12,12 @@
     "static/media/react.png": "/mangelo/static/media/react.44319306359c7112276d.png",
     "static/media/dj.png": "/mangelo/static/media/dj.063664ce592cdb2b70ae.png",
     "index.html": "/mangelo/index.html",
-    "main.32954afd.css.map": "/mangelo/static/css/main.32954afd.css.map",
-    "main.7e3e1ebb.js.map": "/mangelo/static/js/main.7e3e1ebb.js.map",
+    "main.99e0c0eb.css.map": "/mangelo/static/css/main.99e0c0eb.css.map",
+    "main.83334305.js.map": "/mangelo/static/js/main.83334305.js.map",
     "787.754789d5.chunk.js.map": "/mangelo/static/js/787.754789d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32954afd.css",
-    "static/js/main.7e3e1ebb.js"
+    "static/css/main.99e0c0eb.css",
+    "static/js/main.83334305.js"
   ]
 }
