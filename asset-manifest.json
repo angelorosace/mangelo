@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/mangelo/static/css/main.99e0c0eb.css",
-    "main.js": "/mangelo/static/js/main.83334305.js",
+    "main.css": "/mangelo/static/css/main.2670bd89.css",
+    "main.js": "/mangelo/static/js/main.4b8b60fa.js",
     "static/js/787.754789d5.chunk.js": "/mangelo/static/js/787.754789d5.chunk.js",
+    "static/media/MandyAngelo.png": "/mangelo/static/media/MandyAngelo.78c217c73b1c07947444.png",
+    "static/media/Angelo.png": "/mangelo/static/media/Angelo.4d37d9b108b88e19e96b.png",
     "static/media/bg_tmp.jpg": "/mangelo/static/media/bg_tmp.3f7c813384af05fd0d55.jpg",
+    "static/media/Mandy.png": "/mangelo/static/media/Mandy.264c1a063058a0271577.png",
     "static/media/PlayfairDisplay-Black.otf": "/mangelo/static/media/PlayfairDisplay-Black.4c596409de06a1f0222f.otf",
+    "static/media/backend.png": "/mangelo/static/media/backend.56b1cc18c13240645c02.png",
+    "static/media/mine.png": "/mangelo/static/media/mine.ea5df4dd12bb949a8485.png",
     "static/media/CircularStd.ttf": "/mangelo/static/media/CircularStd.c84388dde56bcfe52dc8.ttf",
     "static/media/mangelo-logo-dark.png": "/mangelo/static/media/mangelo-logo-dark.e581a28ec12dff9374d4.png",
-    "static/media/mandy_and_angelo.jpeg": "/mangelo/static/media/mandy_and_angelo.2e7b695aa29214eac31a.jpeg",
-    "static/media/shopify.png": "/mangelo/static/media/shopify.eb060384c1a0ca2dc3ac.png",
-    "static/media/react.png": "/mangelo/static/media/react.44319306359c7112276d.png",
-    "static/media/dj.png": "/mangelo/static/media/dj.063664ce592cdb2b70ae.png",
+    "static/media/gem.png": "/mangelo/static/media/gem.95d84ec613e925f76989.png",
+    "static/media/mining.png": "/mangelo/static/media/mining.e096576cc8f7ea29e8cd.png",
+    "static/media/gems.png": "/mangelo/static/media/gems.d29349d2a6c92d0a173c.png",
+    "static/media/diamond.png": "/mangelo/static/media/diamond.e872f2a893bcddd71fc5.png",
+    "static/media/mining-cart.png": "/mangelo/static/media/mining-cart.3e31837f6294d067e68e.png",
     "index.html": "/mangelo/index.html",
-    "main.99e0c0eb.css.map": "/mangelo/static/css/main.99e0c0eb.css.map",
-    "main.83334305.js.map": "/mangelo/static/js/main.83334305.js.map",
+    "main.2670bd89.css.map": "/mangelo/static/css/main.2670bd89.css.map",
+    "main.4b8b60fa.js.map": "/mangelo/static/js/main.4b8b60fa.js.map",
     "787.754789d5.chunk.js.map": "/mangelo/static/js/787.754789d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99e0c0eb.css",
-    "static/js/main.83334305.js"
+    "static/css/main.2670bd89.css",
+    "static/js/main.4b8b60fa.js"
   ]
 }
