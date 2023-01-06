@@ -1,0 +1,10 @@
+.footerContainer{
+    background-color: #fff7e6;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.footerContainer > p {
+    padding-right: 5vmin;
+}

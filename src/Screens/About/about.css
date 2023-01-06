@@ -1,0 +1,53 @@
+.aboutContainer{
+    padding-bottom: 10vmin;
+    background-color: #15433D;
+}
+
+.aboutTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutTitle > div > h3 {
+    margin-left: 10vmin;
+    margin-right: 10vmin;
+    font-size: 30px;
+}
+
+.aboutTitle > div > h1 {
+    margin-left: 10vmin;
+    margin-right: 10vmin;
+    font-size: 50px;
+}
+
+.contentContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.contentContainer > div {
+    width: 33%;
+}
+
+.photoCol {
+    border-radius: 20px;
+    height: 70vmin;
+    width: 80vmin;
+}
+
+.descCol {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    color: white;
+}
+
+.photo {
+    border-radius: 20px;
+    height: 60%;
+}
+
+.fullImage {
+    border-radius: 20px;
+    max-width: 100%;
+}

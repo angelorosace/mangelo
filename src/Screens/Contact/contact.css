@@ -1,0 +1,25 @@
+.contactContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #fff7e6;
+    align-items: center;
+    height: 50vmin;
+}
+
+.contactContainer > h1 {
+    font-family: 'arial';
+    font-size: 80px;
+    color: #15433D;
+}
+
+.contactContainer > h2 {
+    font-family: 'arial';
+    font-size: 50px;
+    color: #15433D;
+}
+
+.mailContainer{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,67 @@
+.CardContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.DescriptionContainer{
+    width: 50%;
+}
+
+.CardContainer > div > h2,h3,h4,h5,p,span {
+    color: #336c64;
+}
+
+.CardContainer > div > h1 {
+    font-size: 60px;
+    font-family: 'Playfair-Black';
+    color:#15433D;
+}
+
+.CardContainer{
+    padding: 5vmin;
+    margin-right: 20px;
+    background: rgba(255,255,255,0.4);
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    backdrop-filter: "blur(10px)";
+    border-radius: 15px;
+}
+
+.serviceCardContainer{
+    padding-top: 5vmin;
+    padding-bottom: 10vmin;
+    margin-top: 5vmin;
+}
+
+.skillIcon{
+    height: 10vmin;
+}
+
+
+
+.SkillsColumn{
+    display: flex;
+    flex-direction: column;
+    margin-right: 3vmin;
+}
+
+.SkillImg{
+    height: 80px;
+    margin:2vmin;
+    
+}
+
+.container {
+    width: 100vmin;
+    height: 40vmin;
+    display: grid;
+    overflow: hidden;
+    margin: 0;
+    list-style: none;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(3,1fr);
+    gap: 1vmin;
+  }
+  
+  .item {
+    border-radius: 100%;
+  }

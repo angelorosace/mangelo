@@ -1,0 +1,129 @@
+.servicesContainer{
+    padding-bottom: 10vmin;
+}
+
+.serviceTitle{
+    display: flex;
+    justify-content: center;
+}
+
+.serviceTitle > h1{
+    color:white;
+    font-size: 50px;
+}
+
+.servicesTitles{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.servicesTitles > p{
+    color: white;
+}
+
+.servicesContainer{
+    margin-top: 20vmin;
+    padding-top: 5vmin;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.serviceColumns{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.descriptionColumn {
+    display: flex;
+    align-self: center;
+    margin-bottom: 5rem;
+}
+
+.descriptionElement {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin-bottom: 6vmin;
+    background: rgba(100, 206, 132, 0.4);
+    border: 1px solid rgba( 100, 206, 132, 0.18 );
+    backdrop-filter: "blur(10px)";
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.logo {
+    height: 6vmin;
+    width: 6vmin;
+    border-radius: 100%;
+    margin-left:3vmin;
+    margin-top: 3vmin;
+}
+
+.description{
+    padding-left: 5vmin;
+}
+
+.logoColumn {
+    width: 50%;
+}
+
+.container{
+    display: grid;
+    overflow: hidden;
+    margin: 0;
+    list-style: none;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10vmin;
+    padding:5vmin
+}
+
+.skillLogo{
+    height: 8vmin;
+    width: 8vmin;
+    justify-self: center;
+}
+
+/*Service Card*/
+
+.ServiceCardContainer {
+    background-color: white;
+    border-radius: 10px;
+    padding-right: 2em;
+    padding-left: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: 15rem;
+    height: 20rem;
+    max-height: 25rem;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.ServiceCardContainer > img {
+    width: 10em;
+    align-self: center;
+    margin-bottom: 10px;
+}
+
+.CardTextContainer {
+    padding-top: 10px;
+    background-color: rgba(255, 255, 255, .15);  
+    backdrop-filter: blur(5px);
+}
+
+
+.iconList {
+    display:flex;
+    justify-content: space-between;
+}
+
+.iconList > img {
+    width: 3rem;
+    background-color: rgba(128, 128, 128, 0.078);
+    border-radius: 10px;
+}

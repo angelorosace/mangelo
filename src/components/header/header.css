@@ -1,0 +1,24 @@
+.headerContainer {
+    padding-top: 1vmin;
+    display: flex;
+    padding-left:5%;
+    padding-right: 5%;
+    background-color: #FFF7E6;
+}
+
+.linkContainer {
+    margin-left: auto;
+    display: 'flex';
+    align-items: 'center';
+    justify-content: 'center';
+    padding-top: 2vmin;
+}
+
+.headerLink {
+    margin-left: 10vmin;
+    text-decoration: none;
+    color: #15433D;
+    font-size: 18px;
+    font-family: 'CircularStd';
+    font-weight: 100;
+}
